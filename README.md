@@ -1,9 +1,9 @@
 <h1 align="center">
-      <em>Dog-Breed-Classifier-Using-CNNp</em>
+      <b>Dog Breed Classifier Using CNN</b>
   <br>
 </h1>
 
-Created a Dog Breeds Classifier App built using Convolutional Neural Networks from scratch and additionally with transfer learning using ResNet50 to identify an estimate of canine’s breed from user-supplied images.
+Created a Dog Breeds Classifier App built using Convolutional Neural Networks from scratch and additionally with transfer learning using VGG11to identify an estimate of canine’s breed from user-supplied images.
 
 
 
@@ -43,5 +43,5 @@ Dog-Breed-Classifier-Using-CNN is licensed under the MIT License
 </b>
 </p>
 <p align="center">
-<b>Copyright (c) 2020 Archit</b>
+<b>Copyright (c) 2020 Suganthant</b>
 </p>

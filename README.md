@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-Created a Dog Breeds Classifier App built using Convolutional Neural Networks from scratch and additionally with transfer learning using VGG11to identify an estimate of canine’s breed from user-supplied images.
+Created a Dog Breeds Classifier App built using Convolutional Neural Networks from scratch and additionally with transfer learning using VGG11 to identify an estimate of canine’s breed from user-supplied images.
 
 
 

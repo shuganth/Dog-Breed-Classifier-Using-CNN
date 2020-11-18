@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
   - Go to the project root directory 
  
    ```bash
-   cd Dog_Identification_App 
+   cd Dog-Breed-Classifier-Using-CNN
    ```
   - To install dependencies 
   
@@ -37,11 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
   ```
   
   ----
-<p align="center">
-<b>
-Dog-Breed-Classifier-Using-CNN is licensed under the MIT License
-</b>
-</p>
+
 <p align="center">
 <b>Copyright (c) 2020 Suganthant</b>
 </p>
